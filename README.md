@@ -4,4 +4,3 @@ It will also have a Dev Container.json to test the Dev Container Environment.
 
 Another example commit.
 
-Testing within a container
